@@ -5,5 +5,8 @@
         <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
     </div>
+    <div class="col-md-6 text-end social-media-icons">
+<p style="font-size:11px"> Last updated: {% last_modified {{ post.path }} %}</p>
+    </div>
   </div>
 </footer>
