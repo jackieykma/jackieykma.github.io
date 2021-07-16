@@ -1,10 +1,19 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'The Complex Large-scale Magnetic Fields in the First Galactic Quadrant as Revealed by the Faraday Depth Profile Disparity', details: '<b>Y. K. Ma,</b> S. A. Mao, A. Ordog, and J. C. Brown. 2020, MNRAS, 497, 3097', url: 'https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3097M'}
+
+- {name: 'A Broad-band Spectro-polarimetric View of the NVSS Rotation Measure Catalogue - II. Effects of Off-axis Instrumental Polarization', details: '<b>Y. K. Ma,</b> S. A. Mao, J. Stil, J. West, C. Heiles, A. S. Hill, and S. K. Betti. 2019, MNRAS, 487, 3454', url: 'https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3454M'}
+
+- {name: 'A Broad-band Spectro-polarimetric View of the NVSS Rotation Measure Catalogue - I. Breaking the npi-ambiguity', details: '<b>Y. K. Ma,</b> S. A. Mao, J. Stil, J. West, C. Heiles, A. S. Hill, and S. K. Betti. 2019, MNRAS, 487, 3432', url: 'https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3432M'}
+
+- {name: 'Radio Polarization Observations of the Snail: A Crushed Pulsar Wind Nebula in G327.1-1.1 with a Highly Ordered Magnetic Field', details: '<b>Y. K. Ma,</b> C.-Y. Ng, N. Bucciantini, P. O. Slane, B. M. Gaensler, and T. Temim. 2016, ApJ, 820, 100', url: 'https://ui.adsabs.harvard.edu/abs/2016ApJ...820..100M'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'The Galactic Faraday Rotation Sky 2020', details: 'S. Hutschenreuter, et al. (37 authors incl. <b>Y. K. Ma</b>) 2021, A&A, submitted', url: 'https://ui.adsabs.harvard.edu/abs/2021arXiv210201709H'}
+
+- {name: 'The Complex Large-scale Magnetic Fields in the First Galactic Quadrant as Revealed by the Faraday Depth Profile Disparity', details: '<b>Y. K. Ma,</b> S. A. Mao, A. Ordog, and J. C. Brown. 2020, MNRAS, 497, 3097', url: 'https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3097M'}
+
+- {name: 'A Broad-band Spectro-polarimetric View of the NVSS Rotation Measure Catalogue - II. Effects of Off-axis Instrumental Polarization', details: '<b>Y. K. Ma,</b> S. A. Mao, J. Stil, J. West, C. Heiles, A. S. Hill, and S. K. Betti. 2019, MNRAS, 487, 3454', url: 'https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3454M'}
+
+- {name: 'A Broad-band Spectro-polarimetric View of the NVSS Rotation Measure Catalogue - I. Breaking the npi-ambiguity', details: '<b>Y. K. Ma,</b> S. A. Mao, J. Stil, J. West, C. Heiles, A. S. Hill, and S. K. Betti. 2019, MNRAS, 487, 3432', url: 'https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3432M'}
+
+- {name: 'Radio Polarization Observations of the Snail: A Crushed Pulsar Wind Nebula in G327.1-1.1 with a Highly Ordered Magnetic Field', details: '<b>Y. K. Ma,</b> C.-Y. Ng, N. Bucciantini, P. O. Slane, B. M. Gaensler, and T. Temim. 2016, ApJ, 820, 100', url: 'https://ui.adsabs.harvard.edu/abs/2016ApJ...820..100M'}
