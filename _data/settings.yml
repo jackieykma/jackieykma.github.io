@@ -6,7 +6,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 research:
-- {title: 'The magnetic fields in the Milky Way', description: 'To be added...', image: 'assets/img/primary-investigator.jpg', url: 'mw_bfield'}
+- {title: 'The magnetic fields in the Milky Way', description: 'To be added...', image: 'assets/img/planck_dust_pol.jpg', url: 'mw_bfield'}
 
 social:
 - {icon: 'github', link: 'https://github.com/jackieykma'}
@@ -14,4 +14,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/yik-ki-jackie-ma-a95018b2/'}
 
 contacts:
-- {name: 'Dr. Yik Ki (Jackie) Ma', title: 'Postdoctoral Researcher', department: 'Research School of Astronomy & Astrophysics', institution: 'Australian National University', institution_address: 'Canberra, ACT 2611, Australia', host: '(Currently hosted by MPIfR, Bonn, Germany)', phone: '+49 228-525-152', email: 'yikki.ma[at]anu.edu.au', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Yik Ki (Jackie) Ma', title: 'Postdoctoral Researcher', department: 'Research School of Astronomy & Astrophysics', institution: 'Australian National University', institution_address: 'Canberra, ACT 2611, Australia', host: '(Currently hosted by MPIfR, Bonn, Germany)', phone: '+49 228-525-152', email: 'yikki.ma[at]anu.edu.au', office: '', image: 'assets/img/portrait.jpg'}
