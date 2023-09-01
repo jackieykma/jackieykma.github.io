@@ -1,6 +1,24 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"MNRAS":
+  url: https://academic.oup.com/mnras
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"A&A":
+  url: https://www.aanda.org/
+  color: "#de7929"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#445c34"
+
+"ApJS":
+  url: https://iopscience.iop.org/journal/0067-0049
+  color: "#445c34"
+
+"PASA":
+  url: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia
+  color: "#a8c9c8"
+
+"arXiv":
+  url: https://arxiv.org/list/astro-ph/new
+  color: "#e7dc76"
+
