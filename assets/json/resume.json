@@ -1,61 +1,80 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yik Ki Ma",
+    "occupation": "Astrophysicist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "yikki.ma@anu.edu.au",
+    "phone": "+61 2 6125 4034",
+    "url": "https://jackieykma.github.io"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Australian National University",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.anu.edu.au/",
+      "startDate": "2020-10-01",
+      "summary": "Full time researcher focusing on the ASKAP surveys of GASKAP-HI and POSSUM. Hosted by the MPIfR in Bonn, Germany until the end of 2021 due to the COVID-19 pandemic.",
       "highlights": [
-        "Relativity"
+        "GASKAP-HI",
+        "POSSUM"
+      ]
+    },
+    { 
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.mpifr-bonn.mpg.de",
+      "startDate": "2020-01-01",
+      "endDate": "2020-09-30",
+      "summary": "Responsible for the observation planning and the initial development of the imaging pipeline for the MMGPS-L survey.",
+      "highlights": [
+        "MMGPS-L"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "Max-Planck-Institut für Radioastronomie",
+      "url": "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8298?show=full",
+      "area": "New Insights into the Milky Way Magnetic Fields through Radio Broadband Spectro-polarimetry",
+      "studyType": "PhD (Dr. rer. nat)",
+      "startDate": "2015-10-01",
+      "endDate": "2019-12-16",
+      "score": "magna cum laude"
+    },
+    { 
+      "institution": "The University of Hong Kong",
+      "url": "https://hub.hku.hk/handle/10722/221199",
+      "area": "Radio Polarisation Study of the Snail Pulsar Wind Nebula in Supernova Remnant G327.1-1.1",
+      "studyType": "MPhil in Astrophysics",
+      "startDate": "2013-09-01",
+      "endDate": "2015-09-30"
+    },
+    { 
+      "institution": "The University of Hong Kong",
+      "studyType": "BSc in Astronomy & Physics (two majors)",
+      "startDate": "2010-09-01",
+      "endDate": "2013-08-31"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean's Commendation for Excellence in Education",
+      "date": "2022",
+      "awarder": "College of Science, Australian National University",
+      "summary": "Award for excellence in supervision of research student"
+    },
+    { 
+      "title": "Travel Grant",
+      "date": "2018",
+      "awarder": "The International Astronomical Union",
+      "summary": "Travel award for the attendance of the XXXth General Assembly of the International Astronomical Union (340€)"
+    },
+    {
+      "title": "Honours Branch for PhD Students",
+      "date": "2016",
+      "awarder": "Bonn-Cologne Graduate School of Physics and Astronomy",
+      "summary": "Distinguished scholarship awarded to outstanding PhD students (7,200€ scholarship + 1,000€ research fund)"
     }
   ],
   "certificates": [],
@@ -63,12 +82,20 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Cantonese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic"
     }
   ],
   "interests": [],
