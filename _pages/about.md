@@ -22,13 +22,13 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-I am a postdoctoral fellow at the <a href='https://rsaa.anu.edu.au/'>Research School of Astronomy & Astrophysics (RSAA)</a> of the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a>. My primary research interest is the role of magnetic fields in the interstellar medium, as well as in the evolution of galaxies.
+I am a research fellow at the <a href='https://rsaa.anu.edu.au/'>Research School of Astronomy & Astrophysics (RSAA)</a> of the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a>. My primary research interest is the role of magnetic fields in the interstellar medium, as well as in the evolution of galaxies.
 
 My work often involve using world-class radio telescopes such as the Australian Square Kilometre Array Pathfinder (ASKAP), the Australia Telescope Compact Array (ATCA), the Parkes "Murriyang" 64-m Radio Telescope, MeerKAT, and the Very Large Array (VLA).
 
 In particular, I am a core member of two on-going sky surveys using the <a href='https://www.atnf.csiro.au/projects/askap/index.html'>ASKAP</a> radio telescope -- <a href='https://gaskap.anu.edu.au/'>GASKAP-HI</a> that measures the atomic gas distribution in the Milky Way and the Magellanic System, and <a href='https://possum-survey.org/'>POSSUM</a> that explores the magnetic Universe in the southern sky. Both of these are open collaborations -- please do reach out to me if you would like to be involved!
 
-This page is currently a work in progress.
+This webpage is currently a work in progress.
 
 <br>
 
