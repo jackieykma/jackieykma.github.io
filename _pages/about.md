@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p><font size=3>CSO 1.31</font></p>
+    <p><font size=3>Woolley 028</font></p>
     <p><font size=3>Mount Stromlo Observatory</font></p>
     <p><font size=3>Cotter Road, Weston</font></p>
     <p><font size=3>ACT 2611, Australia</font></p>
