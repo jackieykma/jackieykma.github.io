@@ -3,16 +3,27 @@
     "name": "Yik Ki Ma",
     "occupation": "Astrophysicist",
     "image": "",
-    "email": "yikki.ma@anu.edu.au",
-    "phone": "+61 2 6125 4034",
+    "email": "ykma@mpifr-bonn.mpg.de",
+    "phone": "+49 228 525 314",
     "url": "https://jackieykma.github.io"
   },
   "work": [
+    { 
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.mpifr-bonn.mpg.de",
+      "startDate": "2024-10-01",
+      "summary": "Full time researcher working on the delivery of the MMGPS survey, as well as the polarimetric aspects of the MeerKAT+ commissioning.",
+      "highlights": [
+        "MMGPS"
+      ]
+    },
     {
       "name": "Australian National University",
       "position": "Postdoctoral Fellow",
       "url": "https://www.anu.edu.au/",
       "startDate": "2020-10-01",
+      "endDate": "2024-09-30",
       "summary": "Full time researcher focusing on the ASKAP surveys of GASKAP-HI and POSSUM. Hosted by the MPIfR in Bonn, Germany until the end of 2021 due to the COVID-19 pandemic.",
       "highlights": [
         "GASKAP-HI",

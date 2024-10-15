@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p><font size=3>Woolley 028</font></p>
-    <p><font size=3>Mount Stromlo Observatory</font></p>
-    <p><font size=3>Cotter Road, Weston</font></p>
-    <p><font size=3>ACT 2611, Australia</font></p>
+    <p><font size=3>Office E1.11</font></p>
+    <p><font size=3>Max Planck Institute for Radio Astronomy</font></p>
+    <p><font size=3>Auf dem Huegel 69</font></p>
+    <p><font size=3>53121 Bonn, Germany</font></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,11 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-I am a research fellow at the <a href='https://rsaa.anu.edu.au/'>Research School of Astronomy & Astrophysics (RSAA)</a> of the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a>. My primary research interest is the role of magnetic fields in the interstellar medium, as well as in the evolution of galaxies.
+I am a postdoctoral researcher at the <a href='https://www.mpifr-bonn.mpg.de/2169/en'>Max Planck Institute for Radio Astronomy (MPIfR)</a>. My primary research interest is the role of magnetic fields in the interstellar medium, as well as in the evolution of galaxies.
 
-My work often involve using world-class radio telescopes such as the Australian Square Kilometre Array Pathfinder (ASKAP), the Australia Telescope Compact Array (ATCA), the Parkes "Murriyang" 64-m Radio Telescope, MeerKAT, and the Very Large Array (VLA).
+I am a key member of multiple large survey projects conducted with the precursor telescopes of the upcoming <a href='https://www.skao.int/en'>Square Kilometre Array (SKA)</a>, specifically <a href='https://www.sarao.ac.za/science/meerkat/about-meerkat/'>the MeerKAT</a> and <a href='https://www.atnf.csiro.au/projects/askap/index.html'>the Australian Square Kilometre Array Pathfinder (ASKAP)</a> radio telescopes. These surveys include <a href='https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.1291P/abstract'>the MPIfR-MeerKAT Galactic Plane Survey (MMGPS)</a>, <a href='https://possum-survey.org/'>the Polarisation Sky Survey of the Universe's Magnetism (POSSUM)</a>, and <a href='https://gaskap.anu.edu.au/'>the Galactic ASKAP HI survey(GASKAP-HI)</a>.
 
-In particular, I am a core member of two on-going sky surveys using the <a href='https://www.atnf.csiro.au/projects/askap/index.html'>ASKAP</a> radio telescope -- <a href='https://gaskap.anu.edu.au/'>GASKAP-HI</a> that measures the atomic gas distribution in the Milky Way and the Magellanic System, and <a href='https://possum-survey.org/'>POSSUM</a> that explores the magnetic Universe in the southern sky. Both of these are open collaborations -- please do reach out to me if you would like to be involved!
+In addition, I am a frequent user of other world-class radio telescopes such as <a href='https://public.nrao.edu/telescopes/vla/'>the Very Large Array (VLA)</a>, <a href='https://www.narrabri.atnf.csiro.au/'>the Australia Telescope Compact Array (ATCA)</a>, and <a href='https://www.parkes.atnf.csiro.au/'>the Parkes "Murriyang" 64-m Radio Telescope</a>.
 
 This webpage is currently a work in progress.
 
