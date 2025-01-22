@@ -1,3 +1,7 @@
+"A&C":
+  url: https://www.sciencedirect.com/journal/astronomy-and-computing
+  color: "#5a5a5a"
+
 "MNRAS":
   url: https://academic.oup.com/mnras
   color: "#00369f"
